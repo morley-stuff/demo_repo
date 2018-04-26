@@ -1,8 +1,8 @@
 Shopping List
 
-apples
+red apples
 6 x bananas
-yogurt
+vanilla yogurt
 2% milk
 wheat bread
 cereal
